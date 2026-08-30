@@ -6,6 +6,7 @@ My journey of learning Data Structures and Algorithms through coding practice an
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vaishveeyadav20/DSA/tree/master/0088-merge-sorted-array) |
 | [0877-stone-game](https://github.com/vaishveeyadav20/DSA/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/vaishveeyadav20/DSA/tree/master/3731-find-missing-elements) |
 ## Math
@@ -40,5 +41,10 @@ My journey of learning Data Structures and Algorithms through coding practice an
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vaishveeyadav20/DSA/tree/master/0088-merge-sorted-array) |
 | [3731-find-missing-elements](https://github.com/vaishveeyadav20/DSA/tree/master/3731-find-missing-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/vaishveeyadav20/DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
