@@ -9,6 +9,7 @@ My journey of learning Data Structures and Algorithms through coding practice an
 | [0053-maximum-subarray](https://github.com/vaishveeyadav20/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/vaishveeyadav20/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/vaishveeyadav20/DSA/tree/master/0088-merge-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/vaishveeyadav20/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0877-stone-game](https://github.com/vaishveeyadav20/DSA/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/vaishveeyadav20/DSA/tree/master/3731-find-missing-elements) |
 ## Math
@@ -55,4 +56,8 @@ My journey of learning Data Structures and Algorithms through coding practice an
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vaishveeyadav20/DSA/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/vaishveeyadav20/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
