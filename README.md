@@ -7,6 +7,7 @@ My journey of learning Data Structures and Algorithms through coding practice an
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/vaishveeyadav20/DSA/tree/master/0877-stone-game) |
+| [3731-find-missing-elements](https://github.com/vaishveeyadav20/DSA/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -31,8 +32,13 @@ My journey of learning Data Structures and Algorithms through coding practice an
 |  |
 | ------- |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vaishveeyadav20/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3731-find-missing-elements](https://github.com/vaishveeyadav20/DSA/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vaishveeyadav20/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/vaishveeyadav20/DSA/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
