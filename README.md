@@ -12,6 +12,7 @@ My journey of learning Data Structures and Algorithms through coding practice an
 | [0088-merge-sorted-array](https://github.com/vaishveeyadav20/DSA/tree/master/0088-merge-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vaishveeyadav20/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0877-stone-game](https://github.com/vaishveeyadav20/DSA/tree/master/0877-stone-game) |
+| [1552-magnetic-force-between-two-balls](https://github.com/vaishveeyadav20/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [3731-find-missing-elements](https://github.com/vaishveeyadav20/DSA/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -48,6 +49,7 @@ My journey of learning Data Structures and Algorithms through coding practice an
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vaishveeyadav20/DSA/tree/master/0088-merge-sorted-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/vaishveeyadav20/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [3731-find-missing-elements](https://github.com/vaishveeyadav20/DSA/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -62,4 +64,5 @@ My journey of learning Data Structures and Algorithms through coding practice an
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vaishveeyadav20/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vaishveeyadav20/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/vaishveeyadav20/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 <!---LeetCode Topics End-->
