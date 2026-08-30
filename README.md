@@ -6,12 +6,14 @@ My journey of learning Data Structures and Algorithms through coding practice an
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/vaishveeyadav20/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/vaishveeyadav20/DSA/tree/master/0088-merge-sorted-array) |
 | [0877-stone-game](https://github.com/vaishveeyadav20/DSA/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/vaishveeyadav20/DSA/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/vaishveeyadav20/DSA/tree/master/0066-plus-one) |
 | [0877-stone-game](https://github.com/vaishveeyadav20/DSA/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
