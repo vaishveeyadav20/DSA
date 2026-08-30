@@ -27,4 +27,12 @@ My journey of learning Data Structures and Algorithms through coding practice an
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/vaishveeyadav20/DSA/tree/master/0877-stone-game) |
+## Hash Table
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/vaishveeyadav20/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+## String
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/vaishveeyadav20/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
