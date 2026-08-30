@@ -6,6 +6,7 @@ My journey of learning Data Structures and Algorithms through coding practice an
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vaishveeyadav20/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/vaishveeyadav20/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/vaishveeyadav20/DSA/tree/master/0088-merge-sorted-array) |
 | [0877-stone-game](https://github.com/vaishveeyadav20/DSA/tree/master/0877-stone-game) |
@@ -18,6 +19,7 @@ My journey of learning Data Structures and Algorithms through coding practice an
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vaishveeyadav20/DSA/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/vaishveeyadav20/DSA/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -49,4 +51,8 @@ My journey of learning Data Structures and Algorithms through coding practice an
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vaishveeyadav20/DSA/tree/master/0088-merge-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vaishveeyadav20/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
